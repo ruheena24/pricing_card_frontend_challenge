@@ -28,8 +28,6 @@ p {
     box-shadow: 2px 3px 7px 0px rgba(0, 0, 0, 0.35);
     border-radius: 10px;
     overflow: hidden;
-    /*after border radius is given the bottom corners wont hv it , so
-     when we use this prop its just saying to hide the bleeding*/
 }
 
 #top-section {
